@@ -1,2 +1,10 @@
 phase-2 added
 phase-3 added
+phase-4 added
+
+status codes:-
+200 - successful (in fetching the data)
+201 - creating a data in the api
+400 - bad request (error)
+404 - server cannot find the requested resource
+500 - internal server error
